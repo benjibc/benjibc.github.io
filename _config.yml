@@ -1,33 +1,24 @@
-name: White Paper
-highlighter: true
-url: http://vinitkumar.me/white-paper
-gems: [jekyll-paginate,  jekyll-gist]
-paginate: 8
-description:     Jekyll theme for Programmers
-intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
-logo:             logo.png
-disqus_shortname:
-# url: http://gotchacode.com
-#Comment out url when working locally to resolve base urls correctly
-#url:
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-# Owner/author information
-owner:
-  name:           <your-name-here>
-  avatar:         <avatar-image-link>
-  email:          <your-email-address>
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  github:
-  stackexchange:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+# Permalinks
+permalink:        pretty
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Setup
+title:            Lanyon
+tagline:          'A Jekyll theme'
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://lanyon.getpoole.com
 
-# Links to include in top navigation
-# For external links add external: true
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
