@@ -72,3 +72,12 @@ the sufficient statistics Tj and T'j (lines 8-11). In general, distributing work
 ## Scalable Coordinate Descent
 
 (screenshot for scalable coordinate descent)
+
+> Let P be a partition of feature or parameter indices {1, .., p}. We refer to B ∈ P as a block. We denote the subset of parameters θ associated with the block B by θ^B, the subvector of the feature vector x by x^B, and the submatrix of the design matrix X by X^B
+
+> instead of iterating over one model parameter at a time, SCD iterates over one block B of parameters at a time (line 7).
+
+(screenshot for step size)
+
+## Optimal updates with pure blocks
+> The key idea is to partition the model parameters into what we call pure blocks of independent parameters.
