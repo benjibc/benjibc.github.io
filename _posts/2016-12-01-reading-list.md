@@ -45,3 +45,5 @@ http://research.microsoft.com/pubs/138799/modist_nsdi2009.pdf
 SIGIR 2016 list: http://sigir.org/sigir2016/full-papers/
 # Interesting blogposts
 - http://blog.jobbole.com/52164/ fast singleton
+- https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p225-chandra.pdf unrealible failure detector
+- https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf sibyl https://www.youtube.com/watch?v=3SaZ5UAQrQM
