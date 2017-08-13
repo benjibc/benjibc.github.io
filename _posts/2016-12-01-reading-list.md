@@ -47,3 +47,4 @@ SIGIR 2016 list: http://sigir.org/sigir2016/full-papers/
 - http://blog.jobbole.com/52164/ fast singleton
 - https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p225-chandra.pdf unrealible failure detector
 - https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf sibyl https://www.youtube.com/watch?v=3SaZ5UAQrQM
+- https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf Chubby
